@@ -10,6 +10,6 @@ Este laboratório foi criado para apresentar uma abordagem simples e eficaz de m
 - Criação de dashboards intuitivos no Grafana para análise visual simplificada.
 - Experiência prática para garantir uma implementação sem esforço em seus próprios ambientes.
 
-Este repositório oferece um guia passo a passo, scripts de configuração e exemplos práticos para que você possa começar rapidamente a monitorar e otimizar seus servidores Linux. Otimize o desempenho, identifique problemas proativamente e tome decisões informadas com esta solução de monitoramento abrangente.
+Otimize o desempenho, identifique problemas proativamente e tome decisões informadas com esta solução de monitoramento abrangente.
 
  🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
